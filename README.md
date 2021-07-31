@@ -26,11 +26,11 @@ Precision, Recall, and F-score.
 ## 2. Dataset
 The data that we were dealt with is a group of data containing 23,000 news items in the Arabic 
 language 15 thousand news for training and 8 thousand news for testing), classified according to 
-their titles. It consists of two columns (Text and category) as shown in (figure:1). The “category” 
+their titles. It consists of two columns (Text and category). The “category” 
 column contains 40 different classifications, including (sports, music, economics, and others). we 
-will be using it to analyze the news and to know its correct category.
-Data Description
-Text: News in the Arabic language. 
+will be using it to analyze the news and to know its correct category.<br>
+**Data Description** <br>
+Text: News in the Arabic language. <br>
 Category: News Category
 
 ## 3. Text Cleaning and Preprocessing
