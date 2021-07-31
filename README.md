@@ -39,17 +39,18 @@ language processing in Python developed by the CAMeL Lab at New York University 
 CAMeL
 
 ## 4. Feature Engineering
-• TF IDF
-• N-Gram
+• TF IDF<br>
+• N-Gram<br>
 • AraVec
 
 ## 5. Modeling
-• KNN
-• SVM
+• KNN <br>
+• SVM<br>
 • Logistic Regression
 
 
-
+## 6. Evaluation Results
+![result table](https://user-images.githubusercontent.com/60386106/127722421-9fb0c471-a0d6-4f37-9d25-fe6975071678.jpg)
 
 
 
